@@ -1,0 +1,8 @@
+
+# requirements.txt
+# Dependencies for the project.
+
+# Example: Uncomment and replace with actual dependencies
+# numpy
+# pandas
+# tensorflow
