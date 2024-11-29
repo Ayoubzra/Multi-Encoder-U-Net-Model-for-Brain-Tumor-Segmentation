@@ -2,7 +2,7 @@
 # Project Title
 
 ## Overview
-This project demonstrates [brief explanation].
+Multi-Encoder-U-Net-Model-for-Brain-Tumor-Segmentation.
 
 ## Structure
 - `notebooks/`: Contains the main notebook.
