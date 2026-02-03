@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-image
+opencv-python
+Pillow
+nibabel
+nilearn
+tensorflow
+keras
+scikit-learn
+synapseclient
