@@ -24,8 +24,12 @@ To access the dataset:
 
 ## Model Architecture
 This project uses a multi-encoder U-Net architecture designed for multimodal brain MRI segmentation. Each encoder processes a different MRI modality independently, allowing the network to learn modality-specific features before fusing them in a shared decoder. This design improves robustness and segmentation accuracy compared to single-encoder approaches.
+
+
 ![Model Architecture](examples/Arch.png)
 
 ## Segmentation Examples
 Below are qualitative segmentation results produced by the trained model on validation samples. The predictions are visualized slice-wise alongside the corresponding MRI modalities to highlight how the model captures tumor structures across different regions and tissue types.
+
+
 ![Examples](examples/exms.png)
